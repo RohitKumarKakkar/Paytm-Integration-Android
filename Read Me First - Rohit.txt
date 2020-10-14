@@ -1,0 +1,12 @@
+Source Code is Given in File
+
+Upload Files to 000webhost
+
+Change Security XML URL
+
+Change Merchant ID (MID) in Main Activity
+Change Merchant Key in init_transaction.php
+
+Change URL in ServiceWrapper 
+
+DONE !!
